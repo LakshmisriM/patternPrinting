@@ -1,2 +1,0 @@
-# patternPrinting
-pattern_printing
